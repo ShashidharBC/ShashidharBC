@@ -28,7 +28,7 @@
   [![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=git)](https://www.git-scm.com/)
   [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat&logo=github)](https://github.com/)
 - 🔧 &nbsp;IDE's:&nbsp;
-  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 - 🖥 &nbsp;Design:&nbsp;
   [![Figma](https://img.shields.io/badge/-Figma-blue?style=flat&logo=figma)](https://www.figma.com/design/)
