@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Shashidhar :)</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p align="center">
-  <a href="https://github.com/ShashidharBC/"><img src="https://readme-typing-svg.herokuapp.com?lines=Associate+Software+Engineer;React+Native+Developer;Mobile+App+Developer;Web+App+Front+End+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ShashidharBC/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;React+Native+Developer;Mobile+App+Developer;Web+App+Front+End+Developer;&center=true&width=500&height=50"></a>
 </p>
 <br>
 
